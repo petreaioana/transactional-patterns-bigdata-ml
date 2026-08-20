@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Private/raw operational data
+*.dbf
+*.DBF
+*.cdx
+*.CDX
+*.fpt
+*.FPT
+data/raw/
+data/private/
+private/
+private_review/
+*_PRIVATE.*
+*private_mapping*
+
+# Temporary outputs
+*.tmp
+*.bak
