@@ -202,7 +202,7 @@ Code and data-use conditions are separated intentionally.
 
 The source code is distributed under the MIT License in `LICENSE-CODE`.
 
-The publication-safe derived datasets and analytical result tables are provided for scientific transparency, manuscript review, and reproducibility assessment under the conditions in `DATA_LICENSE_PENDING.md`. Their presence in this repository does not constitute an unrestricted open-data licence.
+The publication-safe derived datasets and analytical result tables are provided for scientific transparency, manuscript review, and reproducibility assessment under the conditions in `DATA_LICENSE_NOTICE.md`. Their presence in this repository does not constitute an unrestricted open-data licence.
 
 No licence is granted through this repository for raw DBF data, private mappings, original POS labels, internal identifiers, or other non-public operational records.
 
