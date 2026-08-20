@@ -1,0 +1,9 @@
+metric,value
+baskets,31157.0
+unordered_pairs_with_min_pair_count,1091.0
+directional_rules_tested_after_pair_screen,2182.0
+retained_directional_rules,1174.0
+min_pair_count,100.0
+min_confidence,0.1
+min_lift,1.05
+bh_fdr_threshold,0.05

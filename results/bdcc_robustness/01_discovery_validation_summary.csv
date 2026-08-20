@@ -1,0 +1,13 @@
+metric,value
+discovery_baskets,24467
+validation_baskets,6690
+discovery_month_end,2025-12
+validation_month_start,2026-01
+discovered_directional_rules,1269
+validation_rules_retaining_all_baseline_thresholds,625
+validation_retention_rate,0.4925137903861308
+validation_rules_with_lift_above_one,1188
+validation_lift_above_one_rate,0.9361702127659575
+spearman_support_discovery_vs_validation,0.8460083773351258
+spearman_confidence_discovery_vs_validation,0.8493639468460132
+spearman_lift_discovery_vs_validation,0.802976624066891

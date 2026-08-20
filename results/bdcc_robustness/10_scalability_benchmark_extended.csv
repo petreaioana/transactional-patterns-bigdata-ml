@@ -1,0 +1,5 @@
+benchmark,scale_factor,effective_baskets,distinct_products,observed_unordered_pairs,seconds,peak_tracemalloc_mb
+volume_and_catalog_disjoint_replication,1,31157,710,25731,0.5258430800000156,4.924528121948242
+volume_and_catalog_disjoint_replication,2,62314,1420,51462,0.9273121410000158,8.453754425048828
+volume_and_catalog_disjoint_replication,5,155785,3550,128655,2.003304842000034,18.61567497253418
+volume_and_catalog_disjoint_replication,10,311570,7100,257310,4.081715167000027,36.1080322265625

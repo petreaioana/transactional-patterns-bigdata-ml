@@ -1,0 +1,8 @@
+metric,value
+rules,1174
+OC_unique_values,1
+IF_unique_values,1
+constant_points_from_OC_IF,15.0
+max_abs_reconstruction_error,8.526512829121202e-14
+spearman_original_vs_empirical4,1.0
+identical_sort_order,True

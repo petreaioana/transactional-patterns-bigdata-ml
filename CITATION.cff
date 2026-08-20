@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Please cite this repository release and, when available, the associated article."
+title: "Transactional Pattern Mining for Operational Decision Support: Reproducibility Repository"
+type: software
+version: 1.0.0
+date-released: "2026-08-20"
+
+authors:
+  - family-names: "Cristescu"
+    given-names: "Marian Pompiliu"
+    orcid: "https://orcid.org/0000-0003-3638-4379"
+  - family-names: "Petrea"
+    given-names: "Ioana"
+    orcid: "https://orcid.org/0009-0009-3600-7857"
+
+url: "https://github.com/petreaioana/transactional-patterns-bigdata-ml"
+repository-code: "https://github.com/petreaioana/transactional-patterns-bigdata-ml"
+license: MIT
+
+keywords:
+  - transactional data
+  - big data analytics
+  - interpretable machine learning
+  - association rules
+  - Shannon entropy
+  - sparse basket data
+  - temporal validation
+  - robustness analysis
+  - Negative Binomial regression
+  - Gamma generalized linear model
+  - operational decision support
+  - reproducible research
+
+abstract: >-
+  Publication-safe reproducibility package for the manuscript "Mining and
+  Explaining Transactional Patterns with Entropy, Association Rules, and
+  Statistical Models: A Reproducible Workflow for Operational Decision
+  Support". The repository contains derived public datasets, executable
+  analytical code, reference result tables, temporal validation, model and
+  threshold sensitivity analyses, rule-prioritization checks, computational
+  stress tests, figures, and reproducibility documentation.

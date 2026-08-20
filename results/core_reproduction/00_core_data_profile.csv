@@ -1,0 +1,12 @@
+metric,value
+baskets,31157
+item_rows,139396
+binary_product_presences,139394
+duplicate_transaction_product_rows,2
+distinct_products,710
+active_public_days,762
+first_month,2024-05
+last_month,2026-06
+theoretical_basket_product_positions,22121470
+binary_incidence_density,0.006301299145129144
+possible_unordered_product_pairs,251695

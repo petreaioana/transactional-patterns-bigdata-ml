@@ -1,0 +1,4 @@
+scenario,n_baskets,min_basket_value,max_basket_value,aic
+full_sample,31157,0.01,10220.0,397674.0041447243
+exclude_top_1pct,30845,0.01,1359.9,358511.65387592395
+exclude_top_1pct_and_values_below_1_ron,30686,1.0,1359.9,357432.34999519424

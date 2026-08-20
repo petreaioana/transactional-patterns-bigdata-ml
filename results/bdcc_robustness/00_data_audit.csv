@@ -1,0 +1,15 @@
+metric,value
+baskets,31157.0
+item_rows,139396.0
+binary_product_presences,139394.0
+distinct_products,710.0
+active_public_days,762.0
+months,26.0
+theoretical_basket_product_positions,22121470.0
+binary_incidence_density,0.006301299145129144
+theoretical_unordered_product_pairs,251695.0
+duplicate_transaction_product_rows,2.0
+full_sample_support_equivalent_to_100_baskets,0.0032095516256378984
+min_basket_value_ron,0.01
+p99_basket_value_ron,1361.923999999994
+max_basket_value_ron,10220.0
