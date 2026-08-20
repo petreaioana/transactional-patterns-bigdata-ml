@@ -1,4 +1,4 @@
-dat# Data Licensing Status
+# Data Licensing Status
 
 ## Code licence
 
