@@ -41,7 +41,7 @@ transactional-patterns-bigdata-ml/
 ├── CHANGELOG.md
 ├── RELEASE_NOTES_v1.0.0.md
 ├── LICENSE-CODE
-├── DATA_LICENSE_PENDING.md
+├── DATA_LICENSE_NOTICE.md
 ├── requirements.txt
 ├── environment.yml
 ├── SHA256SUMS.txt
